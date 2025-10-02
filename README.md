@@ -1,4 +1,4 @@
-My final year capstone project. A smart cart interface made for representing the idea of our research paper published in IEEE Xplore. The black book includes the complete report of the system architecture, functions and the code. The paper can be found on IEEE Xplore at https://ieeexplore.ieee.org/document/11059075/. 
+My final year capstone project. A smart cart interface made for representing the idea from our research paper published in IEEE Xplore. It was made in Python, Javascript: React.js, Express.js, CSS, MongoDB, JWT, Axios and executed on a Raspberry Pi 3. The black book includes the complete report of the system architecture, functions and the code. The paper can be found on IEEE Xplore at https://ieeexplore.ieee.org/document/11059075/. 
 
 Abstract of the paper:
 
